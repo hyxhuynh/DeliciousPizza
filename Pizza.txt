@@ -1,2 +1,3 @@
-Order Pizza from Little Ceasar
+Order Pizza from Little Ceasars
 Order a pepperoni pizza
+Order Crazy Puffs
