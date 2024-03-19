@@ -1,3 +1,8 @@
-Order Pizza from Little Ceasars
-Order a pepperoni pizza
-Order Crazy Puffs
+1. Decide which business to order from
+Little Ceasars
+
+2. Decide which type of pizza to order
+a pepperoni pizza
+
+Additional ordeer:
+Crazy Puffs
