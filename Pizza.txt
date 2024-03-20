@@ -4,7 +4,7 @@ Little Ceasars
 2. Decide which type of pizza to order
 a pepperoni pizza
 
-Additional ordeer:
+Additional order:
 Crazy Puffs
 
 3. Decide to order another pizza
